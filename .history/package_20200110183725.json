@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "app": "nodemon app.js",
-    "build": "node app.js"
+    "build": "react-scripts build --output public"
   },
   "author": "Marcus Tan",
   "license": "MIT",
